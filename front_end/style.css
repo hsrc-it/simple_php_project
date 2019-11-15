@@ -1,0 +1,13 @@
+.content{
+	text-align:center;
+	vertical-align: middle;
+}
+.title{
+	font-size: 60px !important;
+}
+.info{
+	font-size: 30px !important;
+}
+.body-color{
+	//background: pink;
+}
